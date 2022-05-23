@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "nyi b",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "nyi c",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
